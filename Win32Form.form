@@ -1,0 +1,35 @@
+[Main Form]
+Name =  Form1
+W = 500
+H = 500
+X = 100
+Y = 100
+Style = -1
+ExStyle = -1
+Parent = 0
+Programmer = Omasgehstock
+
+[Includes]
+#include <GUIConstants.au3>
+
+[Controle1]
+Name =  Button1
+Type = Button
+Text = Button1
+W = 100
+H = 100
+X = 10
+Y = 10
+Style = -1
+ExStyle = -1
+
+[Controle2]
+Name =  Button2
+Type = Button
+Text = Button2
+W = 100
+H = 100
+X = 10
+Y = 10
+Style = -1
+ExStyle = -1
