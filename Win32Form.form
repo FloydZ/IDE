@@ -7,7 +7,6 @@ Y = 100
 Style = -1
 ExStyle = -1
 Parent = 0
-Programmer = Omasgehstock
 
 [Includes]
 #include <GUIConstants.au3>
